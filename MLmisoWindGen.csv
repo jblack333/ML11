@@ -1,0 +1,12 @@
+period,respondent,temp,respondent-name,fueltype,fuel,AvGen,units
+2/12/2021,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,"175,274",megawatthours
+2/13/2021,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,"138,640",megawatthours
+2/14/2021,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,"194,299",megawatthours
+2/15/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,"162,552",megawatthours
+2/16/2021,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,"103,257",megawatthours
+2/17/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,"61,121",megawatthours
+12/22/2022,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,"443,791",megawatthours
+12/23/2022,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,"471,120",megawatthours
+12/24/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,"411,920",megawatthours
+12/25/2022,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,"278,081",megawatthours
+12/26/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,"209,608",megawatthours

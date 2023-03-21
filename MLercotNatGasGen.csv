@@ -1,0 +1,12 @@
+period,respondent,temp,respondent-name,fueltype,fuel,AvGen,units
+2/12/2021,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"888,940",megawatthours
+2/13/2021,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"888,258",megawatthours
+2/14/2021,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"905,059",megawatthours
+2/15/2021,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"752,655",megawatthours
+2/16/2021,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"691,349",megawatthours
+2/17/2021,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"721,120",megawatthours
+12/22/2022,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"588,360",megawatthours
+12/23/2022,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"1,010,543",megawatthours
+12/24/2022,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"879,556",megawatthours
+12/25/2022,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"634,280",megawatthours
+12/26/2022,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"552,510",megawatthours

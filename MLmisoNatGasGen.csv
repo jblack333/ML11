@@ -1,0 +1,12 @@
+period,respondent,temp,respondent-name,fueltype,fuel,AvGen,units
+2/12/2021,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"542,679",megawatthours
+2/13/2021,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"512,298",megawatthours
+2/14/2021,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"551,872",megawatthours
+2/15/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"699,513",megawatthours
+2/16/2021,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"671,352",megawatthours
+2/17/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"654,727",megawatthours
+12/22/2022,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"569,197",megawatthours
+12/23/2022,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"822,213",megawatthours
+12/24/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"805,528",megawatthours
+12/25/2022,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"705,309",megawatthours
+12/26/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"711,401",megawatthours

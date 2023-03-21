@@ -1,0 +1,12 @@
+period,respondent,temp,respondent-name,fueltype,fuel,AvGen,units
+2/12/2021,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,479",megawatthours
+2/13/2021,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,871",megawatthours
+2/14/2021,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,987",megawatthours
+2/15/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"2,058",megawatthours
+2/16/2021,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"3,086",megawatthours
+2/17/2021,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,897",megawatthours
+12/22/2022,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,635",megawatthours
+12/23/2022,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"5,505",megawatthours
+12/24/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"7,905",megawatthours
+12/25/2022,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"7,949",megawatthours
+12/26/2022,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"4,336",megawatthours
